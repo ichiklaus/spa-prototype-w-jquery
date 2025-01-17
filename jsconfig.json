@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["src/components/*"],
+      "@/libs/*": ["src/app/libs/*"],
+      "@/helpers/*": ["src/app/helpers/*"],
+      "@/config/*": ["src/app/config/*"],
+      "@/db/*": ["src/app/db/*"],
+      "@/views/*": ["src/app/views/*"],
+      "@/assets/*": ["src/assets/*"],
+      "@/styles/*": ["src/styles/*"]
+    }
+  },
+  "exclude": ["node_modules", "**/node_modules", "dist", "webpack-dev-server", "webpack"]
+}

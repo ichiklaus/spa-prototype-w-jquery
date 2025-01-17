@@ -1,0 +1,30 @@
+@import url(_variables.css);
+
+.no-border {
+  border: 0;
+}
+
+.card-image--orders {
+  max-height: 142px;
+  object-fit: contain;
+}
+
+.product-preview-wrapper {
+  height: 400px;
+  position: relative;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+
+.product-preview-wrapper:hover .product-preview {
+    transform: scale(1.05);
+}
+
+.product-preview {
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+  position: absolute;
+  top: 0;
+  transition: all 300ms linear;
+}

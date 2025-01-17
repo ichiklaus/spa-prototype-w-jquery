@@ -1,0 +1,18 @@
+{
+  "development": {
+    "apiKey": "AIzaSyC5fQRpPC_hrRq5m5yf-D8oZeSzoW7gfVs",
+    "authDomain": "jquery-spa-dashboard.firebaseapp.com",
+    "projectId": "jquery-spa-dashboard",
+    "storageBucket": "jquery-spa-dashboard.firebasestorage.app",
+    "messagingSenderId": "936381822468",
+    "appId": "1:936381822468:web:abf455fa1206dd725f2751"
+  },
+  "production": {
+    "apiKey": "AIzaSyC5fQRpPC_hrRq5m5yf-D8oZeSzoW7gfVs",
+    "authDomain": "jquery-spa-dashboard.firebaseapp.com",
+    "projectId": "jquery-spa-dashboard",
+    "storageBucket": "jquery-spa-dashboard.firebasestorage.app",
+    "messagingSenderId": "936381822468",
+    "appId": "1:936381822468:web:abf455fa1206dd725f2751"
+  }
+}
