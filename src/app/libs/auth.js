@@ -12,7 +12,7 @@ let idleTime = 0;
 let pageName = window.location.pathname;
 
 function onInitLoggedInApp() {
-  let isOffline = true;
+  let isOffline = false;
 
   let signedIn = false;
 
